@@ -1,0 +1,24 @@
+{
+  "name": "06-desafios-ts-bootcamp-dio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeSouzaRafael/06-desafios-ts-bootcamp-dio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeSouzaRafael/06-desafios-ts-bootcamp-dio/issues"
+  },
+  "homepage": "https://github.com/DeSouzaRafael/06-desafios-ts-bootcamp-dio#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
