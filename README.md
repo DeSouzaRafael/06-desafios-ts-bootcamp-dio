@@ -6,4 +6,4 @@ Tive que identificar quais são e corrigi-los em um arquivo TS.
 
 Link para visuzalização: [Clique Aqui](https://encurtador.com.br/empV0)
 
-Aplicação feita em HTML e TS/JS.
+Aplicação feita em HTML e TS.
