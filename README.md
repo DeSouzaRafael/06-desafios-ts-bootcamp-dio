@@ -4,6 +4,6 @@ Neste desafio o código tinha alguns erros e não funciona como deveria, isso ba
 
 Tive que identificar quais são e corrigi-los em um arquivo TS.
 
-Link para visuzalização: [Clique Aqui](https://encurtador.com.br/empV0)
+Link para visuzalização: [Clique Aqui](https://htmlpreview.github.io/?https://github.com/DeSouzaRafael/06-desafios-ts-bootcamp-dio/blob/main/index.html)
 
 Aplicação feita em HTML e TS.
